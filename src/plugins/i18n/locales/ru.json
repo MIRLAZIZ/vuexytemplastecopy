@@ -1,0 +1,14 @@
+{
+  "Home": "dom",
+  "Second page": "ikkinchi page",
+  "settings": "Настройки",
+  "settingsModule": {
+    "control": "Управление",
+    "add": "Добавить",
+    "username": "Имя пользователя",
+    "full_name": "Имя (Ф.И.О)",
+    "type": "Тип",
+    "mfo": "МФО",
+    "action": "действие"
+  }
+}

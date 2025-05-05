@@ -1,0 +1,14 @@
+{
+  "Home": "assosiy",
+  "Second page": "ikkinchi page",
+  "settings": "Sozlamalar",
+  "settingsModule": {
+    "control": "Nazorat",
+    "add": "Qo'shish",
+    "username": "Foydalanuvchi nomi",
+    "full_name": "Ism (to'liq ism)",
+    "type": "Turi",
+    "mfo": "MFO",
+    "action": "harakat"
+  }
+}
